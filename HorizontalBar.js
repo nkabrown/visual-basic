@@ -49,7 +49,7 @@ export default class HorizontalBacr {
     graph.append('g')
         .attr('class', 'y-axis')
         .call(yAxis);
-   
+
     graph.append('g')
         .attr('fill', '#6978ea')
         .selectAll('rect')
