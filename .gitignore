@@ -1,1 +1,6 @@
+# Desktop Services Store
 *.DS_Store
+
+# files and directories for testing
+settings/
+index.*
